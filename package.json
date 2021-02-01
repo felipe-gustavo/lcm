@@ -1,0 +1,19 @@
+{
+  "name": "lcm",
+  "version": "1.0.0",
+  "description": "This library is entirelly to learning and apply knowledge, the corporate use isn't our responsibility",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lcm"
+  },
+  "keywords": [
+    "lcm",
+    "math"
+  ],
+  "author": "Felipe Gustavo",
+  "license": "ISC"
+}
